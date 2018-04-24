@@ -1,0 +1,12 @@
+﻿  CellGrid.cpp
+CellGrid.cpp(88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CellGrid.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CellGrid.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CellGrid.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  4 of 170 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Game_Of_Life.vcxproj -> c:\users\jack\documents\visual studio 2015\Projects\Game_Of_Life\x64\Release\Game_Of_Life.exe
+  Game_Of_Life.vcxproj -> c:\users\jack\documents\visual studio 2015\Projects\Game_Of_Life\x64\Release\Game_Of_Life.pdb (Full PDB)
